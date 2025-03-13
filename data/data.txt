@@ -1,0 +1,109 @@
+Short description	Description	Caller	Email	Phone	Organization	Assignment group
+Login issue	"-verified user details.(employee# & manager name)_x000d_
+-checked the user name in ad and reset the password._x000d_
+-advised the user to login and check._x000d_
+-caller confirmed that he was able to login._x000d_
+-issue resolved."	Olivia brown	olivia.brown@yahoo.com	+33 64 388 766	Prime Services	GRP_0
+OUTLOOK	"
+
+
+
+received from: hmjdrvpb.komuaywn@gmail.com
+
+
+
+hello team,
+
+
+
+my meetings/skype meetings etc are not appearing in my outlook calendar, can somebody please advise how to correct this?
+
+
+
+kind "	avaThomas	ava.thomas@gmail.com	+33 61 409 944	DataCorp	GRP_0
+Cant log in to vpn	"_x000d_
+_x000d_
+received from: eylqgodm.ybqkwiam@gmail.com_x000d_
+_x000d_
+hi_x000d_
+_x000d_
+i cannot log on to vpn_x000d_
+_x000d_
+best "	Liamthomas	liam.thomas@yahoo.com	+33 69 545 124	SecureNet	GRP_0
+UNABLE TO ACCESS HR_TOOL PAGE	unable to access hr_tool page	AmeliaWhite	amelia.white@gmail.com	+33 65 857 697	DataCorp	GRP_0
+skype error 	skype error 	avaLewis	ava.lewis@company.com	+33 78 192 111	DataCorp	GRP_0
+UNABLE TO LOG IN TO ENGINEERING TOOL AND SKYPE	Unable to log in to engineering tool and skype	AmeliaJackson	amelia.jackson@gmail.com	+33 67 931 918	Innovatech Solutions	GRP_0
+event: critical:hostname_221.company.com the value of mountpoint threshold for /oracle/sid_37/erpdata21/ 	event: critical:HostName_221.company.com the value of mountpoint threshold for /oracle/SID_37/erpdata21/sr3psa1d_7/sr3psa1d.data7,perpsr3psa1d,4524 is 98	Olivia Taylor	olivia.taylor@outlook.com	+33 79 315 328	Prime Services	GRP_1
+ticket_no1550391- employment status - new non-employee [enter user's name]	ticket_no1550391- employment status - new non-employee [enter user's name]	Ava taylor	ava.taylor@outlook.com	+33 71 719 388	SecureNet	GRP_0
+unable to disable add ins on outlook	unable to disable add ins on outlook	Olivia Johnson	olivia.johnson@outlook.com	+33 70 203 730	SecureNet	GRP_0
+ticket update on inplant_874773	ticket update on inplant_874773	James Taylor	james.taylor@gmail.com	+33 75 199 131	Global Industries Ltd.	GRP_0
+engineering tool says not connected and unable to submit reports	engineering tool says not connected and unable to submit reports	Mia White	mia.white@company.com	+33 74 976 127	GreenTech Corp	GRP_0
+Hr_tool site not loading page correctly	hr_tool site not loading page correctly	James Taylor	james.taylor@gmail.com	+33 65 631 539	Prime Services	GRP_0
+unable to login to hr_tool to sgxqsuojr xwbesorf cards	unable to login to hr_tool to sgxqsuojr xwbesorf cards	LiamTaylor	liam.taylor@outlook.com	+33 60 831 876	Global Industries Ltd.	GRP_0
+User wants to reset the password	user wants to reset the password	Liambrown	liam.brown@company.com	+33 74 977 717	Global Industries Ltd.	GRP_0
+unable to open payslips 	UNABLE TO OPEN PAYSLIPS 	Sophia anderson	sophia.anderson@company.com	+33 65 183 568	Tech Solutions Inc.	GRP_0
+Ticket update on inplant_874743	ticket update on inplant_874743	JamesJohnson	james.johnson@outlook.com	+33 62 927 898	FutureWorks LLC	GRP_0
+Unable to login to company vpn	"
+
+received from: xyz@company.com
+
+hi,
+
+i am unable to login to company vpn website, trying to open a new session using the below link, but not able to get through pls help urgently as we are working from home tomorrow due to month end closing. "	noahLewis	noah.lewis@outlook.com	+33 75 717 294	GreenTech Corp	GRP_0
+when undocking pc , screen will not come back	When undocking pc , screen will not come back	Ava Brown	ava.brown@gmail.com	+33 69 785 679	NextGen Software	GRP_3
+ERP SID_34 ACCOUNT LOCKED	ERP SID_34 ACCOUNT LOCKED	benjamin Johnson	benjamin.johnson@outlook.com	+33 63 686 887	Innovatech Solutions	GRP_0
+UNABLE TO SIGN INTO VPN	unable to sign into vpn	James white	james.white@outlook.com	+33 72 186 130	Tech Solutions Inc.	GRP_0
+UNABLE TO CHECK PAYSLIPS	unable to check payslips	Benjaminjohnson	benjamin.johnson@outlook.com	+33 66 964 326	FutureWorks LLC	GRP_0
+vpn issue	"
+
+
+
+received from: ugephfta.hrbqkvij@gmail.com
+
+
+
+hello helpdesk
+
+
+
+i am not able to connect vpn from home office. couple f hours ago i was connected, now it is not working anymore. getting a message that my session expired but if i click on the link, nothing happens.
+
+
+
+[cid:image001.jpg@01d233aa.3f618be0]
+
+
+
+*********************
+
+
+
+need help with your dynamics crm?
+
+click here<
+
+
+
+chat with a live agent regarding your dynamics crm questions now! click here<
+
+
+
+best "	ameliaJohnson	amelia.johnson@company.com	+33 75 838 328	Prime Services	GRP_0
+unable to connect to vpn	unable to connect to vpn	NoahMartin	noah.martin@yahoo.com	+33 73 645 542	DataCorp	GRP_0
+user called for vendor phone number	user called for vendor phone number	Mia Lewis	mia.lewis@outlook.com	+33 67 494 300	Prime Services	GRP_0
+vpn not working	"
+
+received from: dceoufyz.saufqkmd@gmail.com
+
+hello,
+
+i'm not being able to connect to company network through the vpn. pls check.
+
+cc: sir-i am not being able to upload as a result of no company network.
+
+"	sophiaHarris	sophia.harris@yahoo.com	+33 75 750 520	DataCorp	GRP_0
+ERP SID_37 PASSWORD RESET 	ERP SID_37 PASSWORD RESET 	Noah Martin	noah.martin@company.com	+33 75 830 163	Tech Solutions Inc.	GRP_0
+unable to login to hr_tool to check payslips	UNABLE TO LOGIN TO HR_TOOL TO CHECK PAYSLIPS	Noah white	noah.white@company.com	+33 73 500 774	SecureNet	GRP_0
+account locked out	account locked out	Liam harris	liam.harris@company.com	+33 76 358 632	Optima Resources	GRP_0
+Unable to login to hr_tool	UNABLE TO LOGIN TO HR_TOOL	Sophiawhite	sophia.white@company.com	+33 68 122 524	Optima Resources	GRP_0
+unable to log in to erp sid_34 	unable to log in to erp SID_34 	Mia jackson	mia.jackson@company.com	+33 75 827 789	SecureNet	GRP_0

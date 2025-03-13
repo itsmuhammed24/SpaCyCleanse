@@ -1,0 +1,19 @@
+<script>
+   <![CDATA[
+      Ticket ID	Short Description	Details	Caller Name	Email	Phone	Organization	Assignment Group
+INC001	Login Issue	- Verified user details (employee# & manager name). Checked AD, reset password. Caller confirmed issue resolved.	Jules Lambert	jules.lambert@yahoo.com	+33 69 545 124	Secure Net	GRP_0
+INC002	Calendar Missing Meetings	Received from: emma.roy@gmail.com. Meetings/Skype events missing from Outlook calendar, user requests assistance.	Emma Roy	emma.roy@gmail.com	+33 61 409 944	Data Corp	GRP_0
+INC003	VPN Access Problem	Received from: lia.thomas@yahoo.com. Unable to access VPN from home.	Lia Thomas	lia.thomas@yahoo.com	+33 69 555 432	Secure Net	GRP_0
+INC004	HR Tool Access Error	Unable to access HR tool, page not loading.	Charlotte Martin	charlotte.martin@gmail.com	+33 65 857 111	Data Corp	GRP_0
+INC005	Skype Malfunction	Skype not connecting, unable to message colleagues.	Camille Lewis	camille.lewis@company.com	+33 78 192 567	Data Corp	GRP_0
+INC006	Engineering Tool Access	Frequent disconnections on engineering tool.	Theo Klein	theo.klein@gmail.com	+33 67 931 222	Innovatech Solutions	GRP_0
+INC007	Critical Storage Event	Critical event, storage threshold exceeded on server.	Marie Taylor	marie.taylor@outlook.com	+33 79 315 456	Prime Services	GRP_1
+INC008	Outlook Add-ins Issue	Outlook add-ins failing to load, disrupting workflow.	Olivia Martin	olivia.martin@outlook.com	+33 70 203 333	Secure Net	GRP_0
+INC009	VPN Session Expired	VPN session expired mid-use, unable to reconnect.	Jacques Dupont	jacques.dupont@outlook.com	+33 75 717 555	Green Tech Corp	GRP_0
+INC010	Screen Issue Post-Undocking	Screen not returning after undocking.	Clara Lefevre	clara.lefevre@gmail.com	+33 69 785 123	Next Gen Software	GRP_3
+INC011	ERP Account Lock	ERP account locked due to repeated login attempts.	Alex Deschamps	alex.deschamps@outlook.com	+33 63 686 999	Innovatech Solutions	GRP_0
+INC012	Payslip Viewing Problem	Unable to view payslips on HR portal.	Camille Dupont	camille.dupont@yahoo.com	+33 73 645 542	Data Corp	GRP_0
+INC013	Dynamic CRM Error	Outlook CRM add-in disabled, customer data inaccessible.	Noel Martin	noel.martin@company.com	+33 75 838 666	Prime Services	GRP_0
+INC014	HR Portal Login	HR portal login failed, password reset needed.	Marc Durand	marc.durand@outlook.com	+33 72 186 333	Data Corp	GRP_0
+   ]]>
+</script>

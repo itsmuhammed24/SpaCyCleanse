@@ -1,0 +1,879 @@
+Short description	Description	Caller	Assignment group
+job Job_2881 failed in job_scheduler at: 10/28/2016 18:06:00  	"received from: monitoring_tool@company.com_x000D_
+_x000D_
+job Job_2881 failed in job_scheduler at: 10/28/2016 18:06:00"	bpctwhsn kzqsbmtp	GRP_13
+customer not getting order acknowledgements automatically	"
+
+received from: ourhmqta.tjwnqexo@gmail.com
+
+two customer accounts have not been getting the order acknowledgements automatically like they have been for the past 10 years. both are under the same top parent
+
+accts 81184926657 and 81862217657 should automatically be sending acknowledgements to   hdyrugdty@gmail.com
+
+since october 14'th they have not been getting them.
+
+can someone look into this?  this is affecting the customer paying the bills, as they use this acknowledgement as a receiver so they can pay the bill.
+
+
+senior sales engineer
+company, inc
+ourhmqta.tjwnqexo@gmail.com
+
+
+
+
+"	kgqpwvzu rkexzwlh	GRP_13
+credit memo request 7112610434 approva	"hello,_x000D_
+_x000D_
+i have messages to process documents in my erp workflow, but i find none._x000D_
+please advise._x000D_
+_x000D_
+_x000D_
+"	nuhfwplj ojcwxser	GRP_13
+rma 7112619085 workflow in error status	rma 7112619085 workflow in error status - please advise reason for error and restart workflow. 	lwgytuxq qspdztiw	GRP_13
+erp - change of new costs not working in cockpit - field mvgr4	"hello, following problem:_x000D_
+due to necessary changes on tool for an received order i tried to update the costs in cockpit, but when saving the quote, it does not work: error message' field mvgr4 cannot be changed, vbapkom 00010 ready for input' any hints how to solve that? i did that on other q1's before and it worked, only new thing is that we have an order running._x000D_
+erp data, in case it is necessary: order # 36156763  - q1 # 3116244801. concerning items: 10 (as above), 260, 380, 400"	nobwzdvh yqjugexl	GRP_13
+erp zqt pntp and zntc price not calculating on quote 2005151099	"erp quote pntp net price and zntc unit price are $0.00 but all costs are loaded. see screenshots in email attached. need quote to send to customer for ordering
+"	zsulhnxd gexdzoqy	GRP_13
+ billing block not removed automatically	"hello it,_x000D_
+_x000D_
+please check, why billing block was not removed automatically._x000D_
+_x000D_
+"	jwqyxbzs adpvilqu	GRP_13
+german workflow objects from all folders are gone :de_industrial - 01, gen ing, transportation 1/2, ici	german workflow objects from all folders are gone :de_industrial - 01, gen ing, transportation 1/2, ici. in the morning there were approximately 20 objects.. please check also the uk folder. 	mcytlpva jutxbdor	GRP_13
+"material type ""nd""  doesn Â´t create any requriment  for the zlz agreements orders "	"_x000D_
+_x000D_
+received from: qbewrpfu.lwibmxzo@gmail.com_x000D_
+_x000D_
+mit freundlichen grÃ¼ÃŸen / best "	qbewrpfu lwibmxzo	GRP_13
+company center not pulling replacement item	"company center is not pulling replacement items when they are available.  _x000D_
+material 3976391 in company center is a pre-obsolete with replacement - the diaolog box is not displaying the replacement - vb13 is populated mm# 6984824_x000D_
+."	vbmzgsdk jdmyazti	GRP_13
+ delivery unable to ship out delivery	"please provide the following: 
+
+what order number? customer order nor. 35946436
+
+what material or item number? item 10  mm 4846674
+
+what warehouse location? plant_108
+
+issue description / error message?  the delivery quantety is 33 the picked quantety is 31  delivery note is booked but system says delivery is not picked yet
+can not cancel... please help "	cwrikael oanmsecr	GRP_13
+on the english forms we are printing german instead of english	"there was a change in bank details made with ticket_no1557889.  this is not correctly printing on the english forms.  it is showing the correct data but the ""descriptions"" are in german. example. ""bankverbindung instead of bank address,  konto nummer instead of account number""  i also see that there is an extra text being printed for the customers --   ""bitte beachten sie unsere neue bankverbindung."" ""please note our new bank account details.""   only the english version should print on the english documents, not both german and english."	ujxvrlzg pkaegicn	GRP_13
+the note which was always printed at bottom of the quotation was missing. please help to put it back.	please see attachment, 	tfazwrdv upwonzvd	GRP_13
+when running sa38 report zsdr0100, open order report, the report is not pulling usa scheduling agreements	when running the report, example would be mm # 2123340 for location plant_92 as the source location, and making sure on the outputs tab, that scheduling agreements are included.  this report is not picking up this scheduling agreement 4111333643/000010/0049????	prgewfly ndtfvple	GRP_13
+delivery blocked status :blocked	"same issue with inc1561759. i have found another delivery status blocked items. please see the attached excel file for material numbers. _x000D_
+plesae change status to ""not blocked"" otherwise we cannot create delivery note."	nwlhcfpa zdlfmthq	GRP_13
+*deilvery block status* 	"
+
+received from: nwlhcfpa.zdlfmthq@gmail.com
+
+hello it team,
+
+can you please assist to create dn for the following so# 36148274 ? we cannot create delivery. i believed this is because delivery block status has been set with ""blocked"". need to be ""not  blocked.""
+
+
+so# 361482744
+mm#
+52815092
+56235173
+52842204
+
+[cid:image002.png@01d22a14.9ba833d0]
+
+
+[cid:image001.jpg@01d22a11.78bb30f0]
+
+"	nwlhcfpa zdlfmthq	GRP_13
+hello    on my order below.   i have 5  drop ships that will not inwarehouse_tool they customer.  item 50, 70, 80, 100 and 110.  	"from: pvjdtrya oevyhtdx [mailto:pvjdtrya.oevyhtdx@gmail.com] 
+sent: tuesday, october 18, 2016 9:02 pm
+to: nwfodmhc exurcwkm
+subject: wtykmnlg xamesrpfrop ship will not inwarehouse_tools
+
+hello 
+ 
+on my order below.   i have 5  drop ships that will not inwarehouse_tool they customer.  item 50, 70, 80, 100 and 110.  po # 5616726510, 5616726518 and 5616720523.
+ 
+please advise.
+ 
+ 
+ 
+ 
+ 
+please update your records with my new email address:
+ 
+pvjdtrya.oevyhtdx@gmail.com
+ 
+zurtxjbd gaotwcfd
+inside sales representative
+pvjdtrya.oevyhtdx@gmail.com
+
+"	pvjdtrya oevyhtdx	GRP_13
+cannot post delivery 8058506120	cannot post delivery 9169617231.  about 153 materials were recently moved from usa warehouse to usa warehouse.  we are not able to post this delivery. get error that says this material is not maintained at plant plant_192.  plant_192 is usa alabama plant. (should have nothing to do with this).  see attached screen shots.  i am concerned that some configuration is missing to allow plant_101 to ship consignment fill up orders for this customer.  (tool flo mfg.)  these products are only to be stored in usa temporarily.  once inventory depletes, these will be shipped direct from plant_327/plant_328 plant. we cannot miss service to this customer.  please advise.  	khvzugxm yqfrcjwl	GRP_13
+i don't receive any team workflows anymore into my erp inbox.	"von: ydigzqbu xdgjizek 
+gesendet: dienstag, 18. oktober 2016 10:07
+an: ujxvrlzg pkaegicn
+betreff: workflow inbox
+
+hello mr. thetadkg,
+
+i hope you are the right person to turn to:
+suddenly i don't reeive any team workflows anymore into my erp inbox.
+i am assigned to csd 51111936 and hope you can tackle this problem.
+"	ydigzqbu xdgjizek	GRP_13
+erp did not pull the customer part number from the ztax item for the taps item 	"hello it-team,_x000D_
+_x000D_
+please help to check the following issue â€“ erp did not pull the customer part number from the ztax item for the taps item â€“ although it was shown on the delivery note (please see attached) we were not able to print the label for item 22:_x000D_
+_x000D_
+"	bswlorek yhdrlgbs	GRP_13
+item on sales order not pulling through to picking slip	"_x000D_
+_x000D_
+received from: htnvbwxs.gwfrzuex@gmail.com_x000D_
+_x000D_
+good day._x000D_
+_x000D_
+please help with the following:_x000D_
+_x000D_
+we have an issue on the below sales order:_x000D_
+_x000D_
+[cid:image001.png@01d2284d.f0e9c250]_x000D_
+_x000D_
+the first line item is not pulling through to the picking slip:_x000D_
+_x000D_
+[cid:image002.png@01d2284d.f0e9c250]_x000D_
+_x000D_
+please assist._x000D_
+_x000D_
+"	htnvbwxs gwfrzuex	GRP_13
+invoicing error	invoicing error	yhmwxsqj ugnthxky	GRP_13
+so#36131539 / condition type	"_x000D_
+_x000D_
+received from: qgvbalix.smehqkyj@gmail.com_x000D_
+_x000D_
+hello it team,_x000D_
+_x000D_
+we are not able to change the condition type for pos. 20, 50 and 60 in so#36131539._x000D_
+please check and advise me._x000D_
+_x000D_
+"	qgvbalix smehqkyj	GRP_13
+erp inbox, ich bin nicht im workcenter nr. 51111937 = pe_emea_fu3 = aerospace gruppe eingetragen	"workflow meiner gruppe fÃ¼r mich nicht sichtbar , nicht im workcenter nr. 51111937 = pe_emea_fu3 = aerospace gruppe eingetragen
+
+"	xsnrlygw nmqyraec	GRP_13
+pricing condition issue in oa	"_x000D_
+_x000D_
+received from: rayhtukumujar.br2@company.com_x000D_
+_x000D_
+hello,_x000D_
+_x000D_
+in the recent past, we are facing an issue of pricing condition not getting changed while booking the order._x000D_
+_x000D_
+though we override the pricing condition with znr, the pricing condition remains as zlp1 only._x000D_
+_x000D_
+for example, in oa 36131265, the price was over written with znr condition with a nett price of rs. 5726.54.  but still pricing condition is shown as zlp1 with standard discount._x000D_
+_x000D_
+what we have observed is whenever there are sub delivery items created due to non-availability of stock, this issue crops up.  that too, after the challan is created, it becomes too difficult to make any changes._x000D_
+_x000D_
+we request you to look into this immediately, assign sev2 ticket and resolve the same._x000D_
+_x000D_
+await your feedback._x000D_
+_x000D_
+à²•à³ƒà²¤à²œà³à²žà²¤à³†à²—à²³à³  / with "	fgdsvija qvixmubh	GRP_13
+ultramdntyet wrongful inwarehouse_tool, so# 24897522	"_x000D_
+_x000D_
+received from: vflagort.xyotrhlf@gmail.com_x000D_
+_x000D_
+good morning,_x000D_
+_x000D_
+i just sent a request but found more data. so i received the attached email asking to look into the issue. when i look at the inwarehouse_tool (0159274337) referenced in the email, i saw the sample line was charged at cost when it shouldn't have been. when i go into the order, step on the sample line, go to document flow, i see a completely different inwarehouse_tool number than what is referenced. the inwarehouse_tool highlight below is for no cost, as it should be._x000D_
+[cid:image001.png@01d22471.b60d3930]_x000D_
+_x000D_
+when i look at the document flow for the entire order, i see both inwarehouse_tools._x000D_
+[cid:image002.png@01d22472.10904e10]_x000D_
+_x000D_
+please help me understand why the customer was inwarehouse_toold twice for the sample, and why the second inwarehouse_tool is at cost when it should not be. let me know what i need to do on my end to help with this, please._x000D_
+_x000D_
+for record, the inwarehouse_tool sent on 9/19 is correct._x000D_
+_x000D_
+best "	lhyrskmn zbovukqm	GRP_13
+wrongful inwarehouse_tool	"_x000D_
+_x000D_
+received from: vflagort.xyotrhlf@gmail.com_x000D_
+_x000D_
+good morning,_x000D_
+_x000D_
+our customer, ultramdntyet, was inwarehouse_toold for a sample line that was entered as a no charge sample in erp. i will be issuing a credit to the customer for the amount charged, but can you tell me why it was inwarehouse_toold to begin with?_x000D_
+_x000D_
+[cid:image001.png@01d2246f.b6969f60]_x000D_
+_x000D_
+best "	lhyrskmn zbovukqm	GRP_13
+johthryu's erp inbox is not updating since 6th october.	johthryu's erp inbox is not updating since 6th october.	bzxljkoy rvoiqthl	GRP_13
+erp changing order qty issue	please look at sale order 36112082 csr zektaqof cgxlqtiz released order from workflow and the qty went from 1pc to 12,047,279pcs showing csr changed the qty csr did not change qty please review possible issue maybe wf batch issue	zektaqof cgxlqtiz	GRP_13
+unable to see workflow in erp SID_34	unable to see workflow in erp SID_34	obvjhlsa jxnlwspq	GRP_13
+job Job_2881 failed in job_scheduler at: 10/06/2016 18:06:00  	"received from: monitoring_tool@company.com_x000D_
+_x000D_
+job Job_2881 failed in job_scheduler at: 10/06/2016 18:06:00"	bpctwhsn kzqsbmtp	GRP_13
+sales order 36112960 generated a 10/13 delivery date despite the order being markhtyed for 2nd day air.why?	"nibaotpy vmxathog  
+
+
+"	nibaotpy vmxathog	GRP_13
+update inwarehouse_tool documents from list for sales org 12032, 12035 and 12036	"with the germany office move the main inwarehouse_tool printer fd37v got temporarily totally deleted by accident from erp. a big bulk of inwarehouse_tools was already reissued, but there are billing documents dated august 26 - 29, 2016 that do not have any output yet at all. - see lists attached._x000D_
+_x000D_
+if an update is done on the billing via vf02, the correct output type gets automatically added. therefore we need to have a mass update done (just go to change mode and save), so that the missing printouts get added and issued to the appropriate printer. (billings with existing output might be amongst the list, these are good and no action is required.)_x000D_
+_x000D_
+*************_x000D_
+important: *_x000D_
+*************_x000D_
+if the mass update is done, please don't do it any any regular billing job times and note the issued documents from erp spool. the list of billings attached might also have documents with output assigned to other printers than fd37v. these billings are correct._x000D_
+accounting department, however, would need to have a list of all billings where the output now would get generated, as the customer might get reminders or dunnings for the same. we need to clearly trace these billing documents with output only now generated for audit reasons. we need to get the print outs as soon as possible. please help to support this request as soon as possible as some customers get annoyed with wrong dunnings._x000D_
+_x000D_
+if you have questions, don't hesitate to contact me. _x000D_
+"	mynfoicj riuvxdas	GRP_13
+quotes in workflow 	"from: wjslkzfr jxlbzwrp _x000D_
+sent: monday, october 03, 2016 7:50 pm_x000D_
+to: nwfodmhc exurcwkm_x000D_
+subject: re: quotes in workflow _x000D_
+_x000D_
+hi , _x000D_
+_x000D_
+i have 2 items in workflow that i am unable to save out. it appears the quote was deleted._x000D_
+3116211904 lines 110 and 120_x000D_
+please help me get these saved out._x000D_
+_x000D_
+"	wjslkzfr jxlbzwrp	GRP_13
+a user was able to add a zj partner in SID_34 and they don't have security to do so.  please advise how this can be fixed.	"someone in the service center was able to successfully add a zj partner to an existing customer master account in SID_34._x000D_
+we set it up that only the 9 users assigned to the sd:cust_mast_partner_func_zj role would have add/edit/delete access to this partner function._x000D_
+here is a summary of what happened per lillanna:_x000D_
+he (ujxvrlzg pkaegicn) was using SID_34 ecc. what is strange is that the system gave him a warning that he is not allowed to add zj partner function. he could not even save changes until he cleared the zj field. but it seems the system added the zj partner function anyway when he saved the account.  (the account was 81030623 and he added zj partner of 81907354.)_x000D_
+_x000D_
+"	nkthumgf mwgdenbs	GRP_13
+sales office mw01 is not defined for sales area 1409 0sartlgeo lhqksbdx0	"when we opened new order  35093500 we got communicate tahat order is incomplete._x000D_
+sale office is not determinated. when we try enter right sales office mw01  - i can't add the chanhes_x000D_
+print screen in attached"	ylitqvaj ljxdfhus	GRP_13
+unable to post billing to account - billed quantity 0	"unable to post billing to account - billed quantity 0_x000D_
+_x000D_
+1325 ic5314 i 27.09.2016 ziv vvsallz 28.09.2016 ic5314 0159216101_x000D_
+1325 ic5314 i 29.09.2016 ziv oprbatch 29.09.2016 ic5314 0159225544_x000D_
+"	lckagtry xcrmzgli	GRP_13
+unable to inwarehouse_tool	"_x000D_
+_x000D_
+received from: nuhfwplj.ojcwxser@gmail.com_x000D_
+_x000D_
+i am unable to force the inwarehouse_tool on the below, also.  this too is consigned material and needs to inwarehouse_tool before the end of today._x000D_
+please help._x000D_
+_x000D_
+[cid:image001.png@01SID_35b32.40369391]_x000D_
+_x000D_
+"	nuhfwplj ojcwxser	GRP_13
+end of month billing	"_x000D_
+_x000D_
+received from: nuhfwplj.ojcwxser@gmail.com_x000D_
+_x000D_
+good afternoon,_x000D_
+_x000D_
+i am unable to force the billing for the below.  this is consigned material and needs to inwarehouse_tool before the end of today._x000D_
+please help._x000D_
+_x000D_
+[cid:image001.png@01SID_35b31.6e02a420]_x000D_
+_x000D_
+"	nuhfwplj ojcwxser	GRP_13
+rma #6001504109	"rma #7112615210_x000D_
+_x000D_
+workflow error rma needs to be processed before end of today"	asxmeruj drqufvgj	GRP_13
+abap report zsd_price_field_update update for rqfhiong zkwfqagb fields not working for me.	please note that i am receiving an error message when trying to update rqfhiong zkwfqagb fields when using the zsd_price_field_update abap programdnty.  please see screenshots of error message.  i have also attached the uacyltoe hxgaycze file that i was uploading.  i am able to change the material pricing group through transaction mm02.  therefore, i don't think that it is a security problem.	htsnaodb adjtmlzn	GRP_13
+please create an rma# for the nov-tx return.  	please see attachments.	iytebhvd coerxklt	GRP_13
+hello  please urgently fix!  mwstã€€errorã€‚ã€‚ã€‚  mm7218674  best regards.	"hello_x000D_
+_x000D_
+please urgently fix!_x000D_
+_x000D_
+mwstã€€errorã€‚ã€‚ã€‚_x000D_
+_x000D_
+mm7218674_x000D_
+_x000D_
+best "	uxndyfrs vahxnfgl	GRP_13
+"""po not created"""	"_x000D_
+_x000D_
+received from: vhlepcta.lqbgcxpt@gmail.com_x000D_
+_x000D_
+hello team,_x000D_
+could you please check the error and help us? we cannot create the inwarehouse_tool for this delivery for 3 months because of this error and it cannot be solved._x000D_
+_x000D_
+your urgent support is needed._x000D_
+"	vhlepcta lqbgcxpt	GRP_13
+can you please help tami receive in the rma below.  details of the issue are below this screen shot.  i'm not sure how t	can you please help tami receive in the rma below.  details of the issue are below this screen shot.  i'm not sure how to help.	nuhfwplj ojcwxser	GRP_13
+please remove quote from workflow	"_x000D_
+_x000D_
+received from: lwgytuxq.qspdztiw@gmail.com_x000D_
+_x000D_
+hello,_x000D_
+_x000D_
+please clear quote 3116211904 from my workflow.  this quote no longer exists and should not be showing up in my workflow.  see attached screen shot._x000D_
+_x000D_
+"	lwgytuxq qspdztiw	GRP_13
+acct 81910520 was set up to get one monthly inwarehouse_tool but they are getting multiple inwarehouse_tools. 	"
+SID_34 - account 81910520 - smhdyhti tool was set up as zm combined monthly billing.  for july & august they received multiple inwarehouse_tools.  see attached. "	jrzpcesm oznigwvj	GRP_13
+open order book problem (( back order )) - access	"we are having a problem back order report paramdntyeter in access. _x000D_
+((open order book))"	jevckify sbnohwiv	GRP_13
+zlz agreements  4111244546 +  4111337261 donÂ´t create a planning demand 	"_x000D_
+_x000D_
+received from: qbewrpfu.lwibmxzo@gmail.com_x000D_
+_x000D_
+hello help,_x000D_
+_x000D_
+_x000D_
+_x000D_
+the zlz agreement 4111244546 is shown in md04 as demand, but the is no po for the production plant._x000D_
+_x000D_
+the zlz agreement 4111337261 is not shown as demand in md04._x000D_
+_x000D_
+maybe it is a problem with the material type?_x000D_
+_x000D_
+_x000D_
+_x000D_
+_x000D_
+_x000D_
+mit freundlichen grÃ¼ÃŸen / best "	qbewrpfu lwibmxzo	GRP_13
+org 1314 - inwarehouse_tool 0159108935 issue	"the inwarehouse_tool printed output is not complete ie. item no, quantity, unit price and total amount are dierppear.  _x000D_
+attached delviery note and inwarehouse_tool are for your information._x000D_
+please help fix this issue and advise back to us aerp., "	tqfnalpj qyoscnge	GRP_13
+org 1314 : inwarehouse_tool# 0159108934  issue	refer to this inwarehouse_tool no. 0159108934 , the printed inwarehouse_tool is not complete ie. the line item no 60 , quanttiy, unit price and tootal amount are dierppear. also, the total inwarehouse_tool amount is not correct.   the attached are related delivery note and inwarehouse_tool as for your information.  please help fix this issue and inform us aerp., 	tqfnalpj qyoscnge	GRP_13
+metal cutting technology p/l (company zqt 2005137185	"hi team,_x000D_
+_x000D_
+i have created the attached quote, however, it is not up showing correctly (see attached). can you please fix this as soon as possible? "	uisewznr ewtmkphs	GRP_13
+"custom quote.  at saving receive error message of ""enter rate/usd rate type m for 9/27 in the system settings"	"name:lagqcompanyo xqtldrcs
+language:
+browser:microsoft internet explorer
+email:lagqcompanyo.xqtldrcs@gmail.com
+customer number:
+telephone:
+summary:custom quote.  at saving receive error message of ""enter rate/usd rate type m for 9/27 in the system settings
+=====see attachment ===================="	lagqkmto xqtldrcs	GRP_13
+inwarehouse_tools are not automatically being sent to helical when referenced to contracts	customer 81371659, sales org 1204, have inwarehouse_tools automatically set to be emailed, this works for standard orders, zkb and zke's order types, but when an order is referenced to a contract, they are not being transmitted, the partners in the order is correct, but on the inwarehouse_tool it is the same as the sold to party.  please see attached for examples.	vcedphrq yajdpgnz	GRP_13
+hello, i am have problems running open sales backorder report data will not download past 9/22.	hello, i am have problems running open sales backorder report data will not download past 9/22.	bmixaeon mtaguhed	GRP_13
+urgent // price update error 	"_x000D_
+_x000D_
+received from: uarnkqps.gufcjxma@gmail.com_x000D_
+_x000D_
+hi,_x000D_
+_x000D_
+i have to divide the quantity of the item due to partial shipment and currency issue. but while dividing item quantity and re-writing zno for currency update process, zno price is deleted._x000D_
+i try to enter the price again with zno however the system can't allow it and bring the new price with zcnp._x000D_
+_x000D_
+so could you help me please?_x000D_
+_x000D_
+_x000D_
+_x000D_
+_x000D_
+[cid:image002.jpg@01SID_358a8.eb5a4620]_x000D_
+_x000D_
+_x000D_
+_x000D_
+_x000D_
+saygÄ±larÄ±mÄ±zla / best "	uarnkqps gufcjxma	GRP_13
+final inwarehouse_tool for project is not working correctly	"dear it team,_x000D_
+_x000D_
+i have again an issue with a final inwarehouse_tool. i have the following erp order: 34827963._x000D_
+we had a down payment of all items, but a final shipment of item 10,20,50,60,70._x000D_
+items 30 and 40 have not been shipped, hence we are not allowed to do an final inwarehouse_tool for this. _x000D_
+so i tried to do a final inwarehouse_tool for items 10,20,50,60,70, but it did not work. with inwarehouse_tool 0159198781 the down payment amount got deducted twice. _x000D_
+so i cancelled all inwarehouse_tools, incl. down payment inwarehouse_tool and separated them, one inwarehouse_tool for item 10,20,50,60,70 and another inwarehouse_tool for item 30,40._x000D_
+after that i tried again to inwarehouse_tool it. but still the wrong amunt was shown. i need to have an inwarehouse_tool for item 10,20,50,60,70 with amount 350.740 minus 105.222 down paymant. can you please have a look and help me? _x000D_
+this is not a single issue, we had that already several times. "	fmqubnvs kcxpeyiv	GRP_13
+sales doc 35900112/000010 still shows as open in the backorder database.	"sales doc 35900112/000010 still shows as open in the backorder database.  sales doc has been pgid yet it still shows as open in the backorder database.  rpbdvgoy hxasnzjc suggested i enter a ticket.  according to aobrelcs suchytro this sales doc still looks open._x000D_
+"	xkmvpaei fizqoprk	GRP_13
+receiving error with open order book nightly report	receiving error with open order book nightly report - please see attached screen shot	omufjcxr ahypftjx	GRP_13
+unable to process in ecs 	"
+
+received from: rxoynvgi.ntgdsehl@gmail.com
+
+hi it team
+
+kindly please assist as we unable to process dn 9169308075 in ecs.
+ecs system prompted below message.
+
+hi sujitra
+
+kindly note that we unable to process dn 9169308075 in ecs and most probably this order will hold for today shipping, pending for solution.
+
+[cid:image001.png@01SID_3580e.9c668960]
+
+hydstheud mddwwyleh
+operation supervisor
+company distribution services of asia pte ltd
+( asia regional distribution centre)
+
+email : rxoynvgi.ntgdsehl@gmail.com<mailto:rxoynvgi.ntgdsehl@gmail.com>"	rxoynvgi ntgdsehl	GRP_13
+the unit prices of order #35990512 , item ! ~ 8 cannot be revised	"we need to revise the pirces for order#35990512 to zno, 7800 for all the items._x000D_
+i changed for item #9 ~ #11, but cannot change for #1 ~ #8, please check and help, "	tfazwrdv upwonzvd	GRP_13
+9047883335 - sales inwarehouse_tool rejected as the banking details are not printed	the footer with banking details has not printed on inwarehouse_tool 0158994446, the customer has rejected this inwarehouse_tool until the footer details are corrected.	lmwfdnri joplxizv	GRP_13
+blocked inwarehouse_tool for 5205 9048054513	"blocked inwarehouse_tool in our system. reason for blocking ""document 0159165624 has been saved (foreign trade data incomplete) "". (same as ticket_no1551982). _x000D_
+after first analysis, infos were available in mm 03 for  concerned materials. we know how to fix the issue, but before completing the document, please provide information or make further analysis in order to avoid this issue in the futur."	ahmgtlyf ofgxcrys	GRP_13
+not able to create dc	"_x000D_
+_x000D_
+received from: rgtarthi.erjgypa@company.com_x000D_
+_x000D_
+hello help,_x000D_
+_x000D_
+we are unable to create delivery challan due to below error._x000D_
+_x000D_
+[cid:image004.png@01SID_354e4.45837db0]_x000D_
+_x000D_
+[cid:image001.png@01SID_354e2.2aad98b0]_x000D_
+_x000D_
+"	xqoljzbh aydcwkxt	GRP_13
+workflow	"
+
+received from: nealxjbc.owjduxai@gmail.com
+
+i used to be the supervisor over usa.  in july this was changed to efqhmwpj tgeynlvr being the supervisor over that location.  credit memo's and returns are still coming to my workflow and i have to forward to them.  today i was informed that nuhfwplj ojcwxser is now the team lead over usa/ usa/usa and these should be sent to her.  can you update erp so these get routed properly?
+
+nealxjbc owjduxai
+customer service supervisor
+nealxjbc.owjduxai@gmail.com<mailto:nealxjbc.owjduxai@gmail.com>
+
+
+"	nealxjbc owjduxai	GRP_13
+erp csd cockpit application: condition update not possible	"erp csd cockpit application: condition update not possible_x000D_
+not possible to built up an price record  (21.09.16 gt 11:21)_x000D_
+quote 3116246099 line item 10"	ivcygqta qiovrcal	GRP_13
+mm#3342477 | mm#5270584 | mm#5270486 | mm#4166346	"hi_x000D_
+_x000D_
+please see below pricing team comments and advise on above mentioned materials ;-_x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+"	kfhnmtgi boxmklnp	GRP_13
+tax not printing on customer inwarehouse_tools	please review the attached inwarehouse_tools, both of which are the same. the one without the tax is the one the customer received.  the second one with the tax is one that i sent to myself and is billing tax. i spoke with cegtcily in the tax dept. and she is stating that she has a ticket in for this issue where tax is not printing but is calculating in erp.  please look into this issues as quickly as possible as customers are now questioning the billing difference and it is becoming an issue for our customers. 	slkxgzdj wxpytevu	GRP_13
+canadian customer inwarehouse_tools are not printing the tax amount on the inwarehouse_tools	"
+
+received from: gkzedilm.tkpfumeb@gmail.com
+
+user gkzedilm tkpfumeb [jesjnlyenm] can't log into his aplications - engineering_tool and netweaver.
+netweaver reports ""too many incorrect logins"" and engineering_engineering_tools ""unable to contact server"".
+i suspect the user is blocked from these accounts due to too many incorrect logins.
+the user did not recently changed password.
+"	bixvmnar glakoprc	GRP_13
+wrong printing on awa voucher inwarehouse_tools 	hello, when awa 81408476 - order with voucher - the printing says the discount is 130% - which is wrong.  please check and correct this. example in attachment. 	frtwncbv yvxrspqo	GRP_13
+please check order# 35042103 - voucher v-00011418	"the order header is showing this voucher code, and the line item details are also showing this voucher code under ""additional data b"". nevertheless, table vbap-zzcmpgn_id is empty._x000D_
+the printed acknowledgement and inwarehouse_tool are not referring this voucher code, but pricing has considered the voucher discount._x000D_
+something is not correct...._x000D_
+_x000D_
+if voucher is not relevant for this customer/ship-to, then it should not consider voucher discount."	hbmwlprq ilfvyodx	GRP_13
+wrong unit price on inwarehouse_tool 	"_x000D_
+_x000D_
+received from: ovhtgsxd.dcqhnrmy@gmail.com_x000D_
+_x000D_
+it help,_x000D_
+_x000D_
+we have one shipment from apac to indonesia as attachment.  the unit price is 67.89 on the inwarehouse_tool from erp, but it should be 0.04/pcs._x000D_
+_x000D_
+can you check what caused the wrong price on inwarehouse_tool?_x000D_
+_x000D_
+"	ovhtgsxd dcqhnrmy	GRP_13
+quotation printing incorrect voucher discount	"see attached example - 3116245007.  discount applied was 57.5%, but quote copy is showing 115%.  not sure where the pdf is picking up the additional 57.5%._x000D_
+_x000D_
+also see example 3116220390.  this will show the print on 8/29 was correct, and what was printed today is not.  did something move over the weekend that can be backed out??_x000D_
+"	pfzxecbo ptygkvzl	GRP_13
+t&d inwarehouse_tool 0512678028 - pricing error	"hi,_x000D_
+_x000D_
+please refer below mail from branch  & attached t&d inwarehouse_tool of plant_61.  the inwarehouse_tool has picked the total basic value as rs.2,40,991.50 & the excise duty has got charged & paid accordingly, instead of correct total basic value of rs.1,40,000.00, (70,000 x 2) as per previous inwarehouse_tool#0512508978/07.04.16.  kindly find & fix the problem for future inwarehouse_tool to capture the correct total basic value to avoid paying higher excise duty. _x000D_
+_x000D_
+_x000D_
+"	iwqfelcu gsubfiml	GRP_13
+vfx3 billing errors	please see the attached screen print for vfx3 billing errors for 0612893276 and 0612893277, both of which state: foreign trade data incomplete.  the billing document will not create.	slkxgzdj wxpytevu	GRP_13
+job Job_2883 failed in job_scheduler at: 09/17/2016 23:11:00  	"received from: monitoring_tool@company.com_x000D_
+_x000D_
+job Job_2883 failed in job_scheduler at: 09/17/2016 23:11:00"	bpctwhsn kzqsbmtp	GRP_13
+foreign trade data missing in the inwarehouse_tool	inwarehouse_tool 0159130578 was blocked in the system for foreign data were missing in item 20 and 30. after first analysis, infos were available in mm 03 for both concerned materials- inwarehouse_tool is now completed but could you check what happened in order to avoid futur issues (was material correctly entered in mm03, any steps missing ? was there a erp incident that leads to this issue ?...)	ahmgtlyf ofgxcrys	GRP_13
+question	"hello bobhyb,
+sorry, i don't know more than this.
+i am copying this to help team, if they could help you further.
+
+
+"	geylvotd msadrzkj	GRP_13
+@5c\qerror@ 35019921rder# 35019921, material 7393495  	"@5c\qerror@ 3501992sartlgeo lhqksbdx0 ""create delivery"" not allowed (sys. status exls, object vb0035019921000010) @35\qlong text exists@ need to  create a delivery_x000D_
+"	schyepwd ykatfphc	GRP_13
+pricing error on order number 35022202.	"we are unable to change the price on the order number 35022202. can you please help us fix this issue before the inwarehouse_tool is created tonight. _x000D_
+"	ejfgzqyk wpbujczy	GRP_13
+erp issue for invoicing, insufficient stock mm#2247736 even though there is inventory available.	customer service at usa, issues sales orders for acct #81254672. consignment inventory shows stock but there may be a batch block that prevents them from allocating inventrtgoy for billing purposes. there is something odd with mm2247736, mb58, erp. this is maghyuigie ghjkzalez, ph . 	houcdelq wnypackq	GRP_13
+background reports in erp are not running	"hello,_x000D_
+_x000D_
+my nightly erp reports are no longer running each day. i have reset them and they still will not run._x000D_
+_x000D_
+"	omufjcxr ahypftjx	GRP_13
+auto output for inwarehouse_tools	auto output for inwarehouse_tools.  siemens cm 81873983 is set up to auto output inwarehouse_tools to service@company.com however these are not being received in email to trigger on-line invoicing on customer website.	DEsowkrH sciejzNE	GRP_13
+"impossible to remove ""country of origin"" data on inwarehouse_tools for export customer 70202027"	"we've made a uacyltoe hxgaycze with xawlkiey demjqrfl in SID_1 - inwarehouse_tool number 0157138137_x000D_
+there is also inwarehouse_tool 0159117484 and proforma 0159122287 in SID_34 as examples (please note that english sentences are automatic ones and french are manual ones)._x000D_
+on customer master level - classification i checked ""no"" on print export info, but it doesn't work._x000D_
+_x000D_
+"	hadbkvwt touedfyr	GRP_13
+could you resolve item category error during zfd ordering?	"_x000D_
+_x000D_
+received from: fbvpcytz.nokypgvx@gmail.com_x000D_
+_x000D_
+hello it team,_x000D_
+_x000D_
+we are facing item category issue for zfd(free of charge) order so#35900902â€¦now we cannot select item category zklnâ€¦_x000D_
+could you please check and resolve the issue?_x000D_
+_x000D_
+order detail:_x000D_
+sales org : 1306_x000D_
+so#35900902_x000D_
+order type : zfd_x000D_
+mm#4855028_x000D_
+qty : 10pcs_x000D_
+delivery plant : plant_317_x000D_
+usage : product lost intrans_x000D_
+_x000D_
+we cannot select item category ""zkln"" without error. hence, erp cannot identify this open order. we cannot see this open order at md04 screen._x000D_
+[cid:image003.jpg@01d20db0.cf5931a0]_x000D_
+_x000D_
+[cid:image004.jpg@01d20db0.cf5931a0]_x000D_
+_x000D_
+[cid:image005.png@01d20db0.6fa42800]_x000D_
+_x000D_
+"	fbvpcytz nokypgvx	GRP_13
+invalid incompletion error on so#24903890	"so#35014901 has ""configuration"" incompletion for items 10-40 which is invalid. these items are complete and error should not be there"	gtfdvnry nxsaqrfh	GRP_13
+tax not calculated 	"from: raghyvhdra najuty _x000D_
+sent: monday, september 12, 2016 6:33 pm_x000D_
+to: nwfodmhc exurcwkm_x000D_
+cc: srinfhyath araghtyu; parthyrubhji erathyur_x000D_
+subject: trurthyuft - re: tax not calculated_x000D_
+_x000D_
+hello,_x000D_
+_x000D_
+please note  material has reached along with  excise inwarehouse_tool without vat w.r.t  to inwarehouse_tools  _x000D_
+_x000D_
+1) 0512673537 dt.31.08.2016_x000D_
+2) 0512669241 dt 22.08.2016_x000D_
+3) 0512673538 dt 22.08.2016_x000D_
+"	ikerxqwz prkyuitl	GRP_13
+erp customer ref not on delivery	"hoi,_x000D_
+_x000D_
+view attached 2 examples where the customer ref as entered in erp is not printing on delivery's for 1207 sales org. also printscreen from order wikfnmlwds wmtiruac attached._x000D_
+_x000D_
+this might also be the case in other sales org's. please also check 1202 , 1206 , 1225, 1227, 1241, 1278_x000D_
+_x000D_
+"	ugtzkvps crnmtjsv	GRP_13
+there isn't any price under customer pruchase order 24899738	"the customer group 3 of customer 81504358 has been defigned as cn7, and i was told price of the 4 products ( mm#  2869194, 2936676, 4232294, 5174961) have been maitained in system, but the order 35900849 isn't with any price on it. please check and let me know what's wrong in system for it. the customer is in urgnet need of the order , please solve the problem for us aerp._x000D_
+please find the detail from the attached._x000D_
+"	phfduvwl yqnaucep	GRP_13
+approval workflow problems	"_x000D_
+i am approfghaching you, as we have problems with our approval workflow for credit memo requests respectively rmas._x000D_
+i opened several tickets regarding this topic, which unfortunately did not lead to a final solution._x000D_
+maybe it is a (erp-) language problem for my part._x000D_
+anyway, i  hope, that you can help to get this fixed._x000D_
+_x000D_
+the approval levels for our organization are as follows (regardless who is the sales person in customer account)_x000D_
+level 1 (1.000â‚¬-4.999â‚¬): jwqyxbzs adpvilqu (afcbrhqw vudghzcb as subsitute, if possible)_x000D_
+level 2 (5.000â‚¬-9.999â‚¬): jwqyxbzs adpvilqu (afcbrhqw vudghzcb as substitute if possible)_x000D_
+level 3 (10.000â‚¬-24.999â‚¬): qsoxltny dzjespml (tjnwdauo jkdwbhgs as substitute if possible)_x000D_
+level 4 (25.000â‚¬ plus): michghytuael rÃ¼nz (tjnwdauo jkdwbhgs as substitute if possible)_x000D_
+_x000D_
+it often happens, that these workflows are routed to the wrong person._x000D_
+lauacyltoe hxgaycze example: rma 7611183856 was routed to me at level 1 and approved, but then to jmkcewds qkoipbzn at level 2, wo has nothing to do with it._x000D_
+_x000D_
+it takes a lot of time, to gather the wrong routed workflows and to forward them to the responsible person._x000D_
+_x000D_
+i appreciate your help._x000D_
+"	jwqyxbzs adpvilqu	GRP_13
+kein rechnungseingang beim kunden per e-mail 	"kunde 81125605 / cc5202 erhÃ¤lt unsere rechnungen per e-mail - rechnungsempfÃ¤nger 81151242 / cc5202 - empfangende e-mail adresse rechnungseingang@sew-eurodrive.de bis zum 01.08.16 hat der kunde problemlos die rechnungen erhalten. ab dem 02.08.16 nicht mehr. dem kunden liegen die rechnungen somit nicht vor und werden deshalb auch nicht bezahlt. ich kann keine Ã¤nderung feststellen  und bitte deshalb um klÃ¤rung. danke. _x000D_
+_x000D_
+_x000D_
+translation : _x000D_
+customer 81125605 / cc5202 receive our inwarehouse_tools by email - inwarehouse_tool recipient 70,040,131 / cc5202 - receiving email address rechnungseingang@sew-eurodrive.de until 01:08:16 the customer easily get the bills. from 02:08:16 not. the customer therefore not be before the bills and are therefore not paid. i can not detect any change and therefore ask for clarification. "	hgufmidr mfobkyun	GRP_13
+after changing to new group, several workflow items from old group are (still) visible in new groups workflow, too /-154	"phone: 
+changed from milling team  csd 5111156895 to holemaking team csd 515611894, but still several workflow items from old group are visible in new groups workflow, too. erp substitution was ended by old team, as far as i was informed."	nobwzdvh yqjugexl	GRP_13
+inwarehouse_tool format - issue outputs to e-mail	"_x000D_
+_x000D_
+received from: zfliqpxm.dgfvaqlh@gmail.com_x000D_
+_x000D_
+hello_x000D_
+_x000D_
+while using t/c  zz_mails  we are getting inwarehouse_tools in 2 different formats._x000D_
+please refer enclosed e-mails_x000D_
+_x000D_
+inwarehouse_tool 0512673680       : not okay_x000D_
+_x000D_
+inwarehouse_tool 0512669014       : is okay_x000D_
+_x000D_
+please help us in getting all inwarehouse_tools as per format appearing in inwarehouse_tool 0512669014_x000D_
+_x000D_
+"	zfliqpxm dgfvaqlh	GRP_13
+#mm2247736 can not inwarehouse_tool consignment mb58 acct 81254672, total 36 piezas.	#mm2247736 can not inwarehouse_tool consignment mb58 acct 81254672, total 36 piezas.	houcdelq wnypackq	GRP_13
+erp rounding off the total of an order	we have quotes 3116232719, 3116233894 and 3116234383, that gives me the correct unit price but the total of the entire quote is rounding off.  can this be fixed?  customers will deny payment if the total doesn't match what the unit price is.  	iqbyrtop izpmvgfq	GRP_13
+ç­”å¤: 35969737/2032252	"_x000D_
+_x000D_
+received from: wqzarvhx.hfsojckw@gmail.com_x000D_
+_x000D_
+hi, help_x000D_
+_x000D_
+pls check item 20, net value in condition table is 17rmb. but shows  34rmb on the view of item overview, pls correct, "	wqzarvhx hfsojckw	GRP_13
+rebate agreements 92 will not create partial settlement	"rebate agreements 92 will not create a partial settlement with transaction vb(7 _x000D_
+_x000D_
+i have confirmed with agreement 92 specifically that there were sales during the month of august.  other agreements are working to create the credit without fail.  please advise what could be the cause and steps to correct.  please also note this same process worked to generate the july documents ."	pfzxecbo ptygkvzl	GRP_13
+job Job_2881 failed in job_scheduler at: 08/31/2016 18:20:00  	"received from: monitoring_tool@company.com_x000D_
+_x000D_
+job Job_2881 failed in job_scheduler at: 08/31/2016 18:20:00"	bpctwhsn kzqsbmtp	GRP_13
+mm 7154294 - transfer pricing	mm 7154294 has an average customer net price (vk13 - ztfn) for 1101 of 20.60 per pc.  in october 2015 the price was per pak.  why did the price switch from per pak to per pc?  i would think that the price of this material should be 20.60 per pak and 2.06 per pc since it is a pack of 10.  it is imperative that we fix this issue immediately as we have a short time framdntye to fix the transfer price and avoid overpaying customs duties.  please advise.  	wgothrzl iokdftgn	GRP_13
+xjmpacye qgxrptnf cannot send delivery notes via zz_mails	"dear it team, _x000D_
+my colleague cannot send herself pdfÂ´s out of erp via zz_mails. _x000D_
+the problem already exists since some days. _x000D_
+she already looged off an on from erp and windows, but it stil does not work. _x000D_
+can you please have a look?_x000D_
+"	xjmpacye qgxrptnf	GRP_13
+additional corrections of  sales org 1278 and company address/phone numbers required after germany move	"1. sales organisation address 1278 â€“ phone number and fax number need to be reversed to original phone/fax number from fÃ¼rth.  0911â€¦_x000D_
+2. plant address plant_124 â€“ phone /fax numbers need to be adjusted to show germany central phone numbers/fax_x000D_
+3. company code address of 5278 need to be reverted back! address is in fÃ¼rth not in germany_x000D_
+_x000D_
+details are attached to the ticket."	mynfoicj riuvxdas	GRP_13
+missrouting of printouts:  check settings if printing invoiuce to printer ag28 / fÃ¼rth and change printer to jc00 / 	"_x000D_
+_x000D_
+received from: tkuivxrn.urdgitsv@gmail.com_x000D_
+_x000D_
+hello,_x000D_
+_x000D_
+settings in erp SID_34 system of printing inwarehouse_tool e.g. 0158047476 are wrong (plant_168 to plant_113 shipments)._x000D_
+_x000D_
+please change setting to printer jc00, due to no requirement to continue printing  these paper in fÃ¼rth = protect the planet._x000D_
+_x000D_
+many "	qgopxabz xnuieqjr	GRP_13
+vfx3 - 1417 - foreign trade data missing	"dear it team,_x000D_
+_x000D_
+i checked this morning vfx3, unfortunately, there are still 4 entries, where i do not know what to do._x000D_
+can you please check?_x000D_
+inwarehouse_tool 0158898835: pricing error_x000D_
+inwarehouse_tools 0158947538, 0158027980 and 0158027991: i completed the foreign trade data, but the error is still coming. _x000D_
+_x000D_
+as we have months end, we need to fix this today._x000D_
+_x000D_
+"	fmqubnvs kcxpeyiv	GRP_13
+vfx3, 4 interco inwarehouse_tools cannot be processed	"error: no number range number has been recorded for billing document xxx_x000D_
+_x000D_
+inwarehouse_tools  (all sales org 1268)_x000D_
+0340093016_x000D_
+9239982988_x000D_
+0340006052_x000D_
+9239997472_x000D_
+_x000D_
+"	ipwjorsc uboapexr	GRP_13
+we don't able to insert money value in crm's authorization return	we don't able to insert money value in crm's authorization return	swnjocmk etpuhnwg	GRP_13
+complaint  7611183254     /  workfflow	"i create a complaint  7611183254_x000D_
+the complaint ist not in the workflow   to approval_x000D_
+please help me"	cdbhoxir vlpkithu	GRP_13
+erp delivery issues	"_x000D_
+_x000D_
+received from: raifstow.gfeymtql@gmail.com_x000D_
+_x000D_
+hello,_x000D_
+_x000D_
+i am having issues forcing deliveries in erp._x000D_
+_x000D_
+[cid:image001.png@01d1ff73.c210fc30]_x000D_
+_x000D_
+"	raifstow gfeymtql	GRP_13
+close line item on order 19101476	"hi,_x000D_
+please close line item 91 on order number 20212587 because it has already been delivered but remains open in md04._x000D_
+"	cqrmewsi xypfqhid	GRP_13
+i am stuck.     has 3 lines.   lines 40 and 50 have been inwarehouse_toold 0158401519.   line 60 we cannot pgi	"i am stuck.    9168335496 has 3 lines.   lines 40 and 50 have been inwarehouse_toold 0158401519.   line 60 we cannot pgi, so it has not inwarehouse_toold.  any ideas on how we can get line 60 inwarehouse_toold?_x000D_
+_x000D_
+ _x000D_
+_x000D_
+_x000D_
+v  _x000D_
+"	avkotjzx hmntobws	GRP_13
+inwarehouse_tools 0581144512 and 0581149834 issued for ic5268. should be ic5252.	"inwarehouse_tools 0581144512 and 0581149834 issued for ic5268. should be ic5252._x000D_
+"	ipwjorsc uboapexr	GRP_13
+wrong calculation in erp	"the rebate was not calculated correctly in the inwarehouse_tools 0158493708 + 0158484133._x000D_
+it was too little rebate."	vrmdtcal agythfow	GRP_13
+inwarehouse_tool not creating	"_x000D_
+_x000D_
+received from: uisewznr.ewtmkphs@gmail.com_x000D_
+_x000D_
+hi team,_x000D_
+_x000D_
+delivery # 9168077553 is not creating an inwarehouse_tool and i cannot see any reason why it is not creating. can you please resolve this issue? "	uisewznr ewtmkphs	GRP_13
+erp round off on total	we entered so 35941677, total of order should be $1,150.50 but erp is rounding it off to $1,151.70  it is creating a 20 cent difference.  this order is one of few and is causing quite a bit of re-invoicing and payment rejections.  	iqbyrtop izpmvgfq	GRP_13
+delivery notes - unable to inwarehouse_tool four deliveries.  error indicates a block. no block on orders	"deliveries mentioned below are not invoicing.   try to do it manual under vf01.  errors were:   the billing type could not be determined, block for billing, the item is not relevant for billing.  _x000D_
+9168911759_x000D_
+8057800533_x000D_
+9168911663_x000D_
+8057800653_x000D_
+9168911772_x000D_
+8057800687_x000D_
+9165515998_x000D_
+_x000D_
+need resolved before month end.     any questions please contact ibtvlfah dtlwscma 479-633-6608"	ibtvlfah dtlwscma	GRP_13
+top urgent request les team: change back kis inwarehouse_tool sender address of  sales orgr 1278 from germany to fÃ¼rth	"subject: wrong address on kis inwarehouse_tools for salsed org 1278_x000D_
+importance: high_x000D_
+_x000D_
+kis commercial inwarehouse_tools for sales org 1278 print wrong sender address, which cause legal compliance error with german customs.  _x000D_
+revers 1278  sales org address to company infrastruture gmbh, wehlauerstr. 73,  90766 germany  today!!!_x000D_
+_x000D_
+please confrim estimated time of change  in SID_34 system aspap. _x000D_
+"	qgopxabz xnuieqjr	GRP_13
+sales order 35944817: committed date = sunday	"hello it,_x000D_
+_x000D_
+please check, why the system allows a sundaycommitted date._x000D_
+_x000D_
+"	jwqyxbzs adpvilqu	GRP_13
+the same material was posted in two different plants. display material document 5042203567. mov. 541 mm#3475529	sometimes we need to send some material to the vendors for manufacturing different kind of new itens to company. in this case, when we sent the mm# 4586630 to the external vendor, the system make two different moviments. one at plant plant_248 and another at plant plant_250. because of this problem, we cannot create a nota financial_toolcal and we cannot reverse the moviment.	yjcxvrhu mlqfuapc	GRP_13
+cannot change in conditions tab	"_x000D_
+_x000D_
+received from: nuhfwplj.ojcwxser@gmail.com_x000D_
+_x000D_
+hello,_x000D_
+it appears i don't have access to change any values in the conditions tab.  please review for the issue, as i need to complete this quote and convert to usd/kg instead of rub/kg._x000D_
+_x000D_
+[cid:image001.png@01d1fc7d.3c4918b0]_x000D_
+_x000D_
+_x000D_
+"	nuhfwplj ojcwxser	GRP_13
+erp order acknowledgement weight difference	"_x000D_
+_x000D_
+received from: nuhfwplj.ojcwxser@gmail.com_x000D_
+_x000D_
+hello,_x000D_
+_x000D_
+please review the quantity on the attached  order acknowledgement._x000D_
+in the quantity column the weight of 4.536 kg is correct._x000D_
+in the description field the qty is 3.000 kg.  this is incorrect._x000D_
+correct the quantity value to be 4.536 kg in both areas._x000D_
+_x000D_
+"	nuhfwplj ojcwxser	GRP_13
+having to approve the same credit memo several times.	please review the approver level for stefyty ross (director of sales).  at times, i am having to approve the same credit memo 2 to 3 times in workflow.  this should not be happening. 	sghamujc shompueb	GRP_13
+unable to open the order confirmation from the erp	"_x000D_
+_x000D_
+received from: rslvwpnh.emkfpqiy@gmail.com_x000D_
+_x000D_
+please find the snap shot of the screen._x000D_
+_x000D_
+am unable to open the url : _x000D_
+_x000D_
+[cid:image001.jpg@01d1fc86.94db1ce0]_x000D_
+_x000D_
+"	rslvwpnh emkfpqiy	GRP_13
+issue when updating vv32	"_x000D_
+_x000D_
+received from: rhwsmefo.tvphyura@gmail.com_x000D_
+_x000D_
+hello.  we are experiencing an issue when updating the following fields in vv32 ; partner and lang.  we have to update this field multiple times before it works in erp.  this is causing problems with customers receiving inwarehouse_tools so please markhty as high priority.  i had to update the record below at least 5 times before the partner and lang saved. "	rhwsmefo tvphyura	GRP_13
+please change to the japanese.	"hi,_x000D_
+_x000D_
+it is a screen of the sales order._x000D_
+please change to the japanese._x000D_
+there is also when the ship-to is displayed in japanese._x000D_
+domestic customers want to display in japanese._x000D_
+_x000D_
+best "	uxndyfrs vahxnfgl	GRP_13
+why the changed weight of the mm hasn't been copied to the sales order?	"we met the weight problem when make shipment to order 35410210, shipping plant complained the weight in d/n for some of mms still remain 11.111g( dummy weight for a new mm). but actually the weight of the mm has already be updated at mm02 to the real weight before dn created. so why system cannot carry out the new weight to the sales order? see samples mm7316889 in this s/o._x000D_
+the mm changes recorded said the weight was updated from 11.111g to 500g on june 21 2016, however the s/o still keep 11.111g so when plant_185 run d/n on aug. 10 2016, the weight in d/n still shown 11.111g thus warehouse have to manual update the weight in d/n._x000D_
+please verify what's the problem, "	urfdkvei bfiulzto	GRP_13
+rma customer return error	"billing 0158655822 , inwarehouse_tool 415464 _x000D_
+customer return not processed correctly_x000D_
+when input billing 0158655822, the material isn't copied from the reference."	cxfrvtyn rapoejyb	GRP_13
+erp consignment zkea issue with creating duplicate kb orders	order 35867766 zkea was created and erp generated 2 fill orders, zkb orders. order 35867760 and 35867772. see screenshot in email attached. erp should have created only 1 fill kb order. customer receive duplicate fills and will be returning the product	zsulhnxd gexdzoqy	GRP_13
+unable to change quotation.	unable to change quotation.	txjwyami fhlgpsim	GRP_13
+zz_mails : unable to send quotations to customer /sales	"_x000D_
+_x000D_
+received from: afwzehqs.jfbxegac@gmail.com_x000D_
+_x000D_
+hello team_x000D_
+_x000D_
+we are unable to send any quotations to customer or sales through zz_mails._x000D_
+_x000D_
+please check and resolve immediately._x000D_
+_x000D_
+example: 3116105044 was sent to afwzehqs.jfbxegac@gmail.com<mailto:afwzehqs.jfbxegac@gmail.com> but not received._x000D_
+_x000D_
+warm "	afwzehqs jfbxegac	GRP_13
+document sent out via zz_mails can't be received in time	"i made a uacyltoe hxgaycze as sent document 7611183197 to my own email address via zz_mails at 3 pm (apac time).
+but 30 mins later, it still has not been received.
+"	zupifghd vdqxepun	GRP_13
+zz_mails is not working	"dear it team, _x000D_
+today our zz_mails is not working, can you please check what happened?_x000D_
+"	fmqubnvs kcxpeyiv	GRP_13
+urgent!! erp outputs not generated	all users in poland encounter issue with erp outputs (see the error message attached) 	djpwfxzt cfkwxlmq	GRP_13
+unable to generate inwarehouse_tool as per delivery# 8057901657	unable to generate inwarehouse_tool as per delivery# 9168012768, we've got the error message ie. bapi_po_create fail: material auto extend failed, please help fix this error and advise back to us.  then, we will generate tax inwarehouse_tool at our end, 	tqfnalpj qyoscnge	GRP_13
+no intercompany 	"
+
+received from: dumovtpj.ahgjsvoq@gmail.com
+
+hi team,
+
+we can not generate intercompany for delivery note 9168034926 the following error message appears, can you please
+have a look:
+
+[cid:image001.png@01d1f7b2.8e308980]
+
+mit freundlichen grugermany / best "	dumovtpj ahgjsvoq	GRP_13
+return 7112594470 is held up in worklfow under approval vnhaycfo smkpfjzv- as of 4/27/16	"vnhaycfo smkpfjzv is not with earthworks usa- customer order is being up held due to credit involved with this return. return has been received on 5/4/2016.  _x000D_
+"	toeibhlp gukqjwnr	GRP_13
+cant complete quote number 	"cant complete quote number _x000D_
+3116216659 get error massage_x000D_
+""line item -> 000010_x000D_
+entered brand is not listed, enter a valid brand for line item"" "	zevqkaxh gkmohwdb	GRP_13
+when customer service enters an order for acct #81523266 they get the error sales office not valid for flat rate	"this is a company account with sales office = fmw1.  on 6/18/16, the shipping conditions was updated to 10 (ground) and the default carrier to tupsgrnd_x000D_
+_x000D_
+bob lewicki requested that i entered a ticket.  his comments :       ""i believe that some logic for restricting sales offices was added so that infrastructure would not try to use flat rate, but usa should definitely not be on there. i have copied prishry and rabhtui for input. in the meantime can you please enter a ticket to get it corrected, i believe that it should be able to be adjusted in a table"""	nkthumgf mwgdenbs	GRP_13
+mandatory condition mwst is missing for order 35805176 customer master 70928858	"could you please check what is wrong with customer master 81039969? we can't create delivery because there are incomplete log -pricing error: mandatory condition mwst is missing_x000D_
+we check with pricing department and mwst is defined for this customer corretly,_x000D_
+_x000D_
+there should be  tax like for turkey tr ""tax free trade zone"" because customer is from  azerbaijan, maybe has to be added some condition for this country also,_x000D_
+_x000D_
+we have to ship the tools today because it is new order form new distributor with big potential, so priority -2 _x000D_
+_x000D_
+"	qnstifeb hybrjfex	GRP_13
+application response time (other network resources work normally)	"please provide details in the template below (if multiple applications are impacted, please use the quick ticket template in the ""operations"" folder).
+site / location :  usa
+user id (ad) : dinkifgtrl
+system you are seeing performance problems on (please list all) (e.g., crm, erp, bw, bobj): SID_34 erp production //  server name - HostName_201
+transactions that are slow (e.g., va01, create an order): quotes and orders // va01, va21
+area this belongs to (e.g., sales, finance, markhtyeting etc.):  sales (as per robhyertyj)
+how can this issue be replicated by the it support group: 
+are other users seeing this? yes, 40+
+please attach relevant screenshots and exact times when the issue occurred: attached
+
+user name - robhyertyj l dinfgrtyukins
+contact no - "	itylnjqw kqiurhbt	GRP_13
+application response time (other network resources work normally)	"please provide details in the template below (if multiple applications are impacted, please use the quick ticket template in the ""operations"" folder).
+site / location :  corporate
+user id (ad) :  prohgtyarb
+system you are seeing performance problems on (please list all) (e.g., crm, erp, bw, bobj):  workflow
+transactions that are slow (e.g., va01, create an order):  quote
+area this belongs to (e.g., sales, finance, markhtyeting etc.):  sales
+how can this issue be replicated by the it support group: 
+are other users seeing this? 
+please attach relevant screenshots and exact times when the issue occurred: q#3116214820 is stuck in my workflow, when i try to go in it, says i am in it, and i cannot save it out"	jpufgorh xltfrpcy	GRP_13
+to remove plant_101 plant assignment to sale orgs 1444 & 1445 - romania & slovakia project related	this was supposed to be removed immediately after uat, however we missed removing this assignment. shipment from plant_101 was assigned only for uacyltoe hxgayczeing purposes. business requirement may come in future. 	ospmbweg peswfcbj	GRP_13
+quotation with configured new simple special items remains incomplete in SID_1	"quotation with configured new simple special items remains incomplete in SID_1:_x000D_
+quotes were created in distributor_tool._x000D_
+a) quote 3115968739 /11  - alternate mill_model item gets not replaced with material # of initial item 10._x000D_
+b) quote 3115968742 / 10 and 11. pricing remains incomplete. i cannot identify what is actually incomplete. but erp shows the status incomplete and therefore the quote cannot be printed and sent to customer over web."	iavozegx jpcudyfi	GRP_13
+SID_34/1108/vf01-vf04/ price problems zor agains zf2 inwarehouse_tool	"we have facing problems with the inwarehouse_tools , the price into the order is correct, but the inwarehouse_tool has another price!!!!_x000D_
+example order confirmed 35881790 delivery 9168954879 inwarehouse_tool 0158914039_x000D_
+example order confirmed 35882469 delivery 9168955759 inwarehouse_tool 0158915223_x000D_
+i must issue the inwarehouse_tools 24 hours after the import payment. in this moment we stopped the process . "	zvjwleuo tdfqgcal	GRP_13
+zdis discounts do not appear	"zdis discounts are not applying and should be.  zdis isn't even showing as a condition and should be.  this is causing incorrect sales orders and orders to be placed on hold.  _x000D_
+please see the following sales orders.  _x000D_
+35892987.  _x000D_
+35891192 items 20 and 50-80.  _x000D_
+quote 3116213902 items 20 & 40."	rmegscqu juksmtho	GRP_13
+rounding concerns for mexico.  please assign ticket to rabhtuikurtyar  tammineni	znet should not be applied to zcnc, zcnp or manual condition for 1108.	rmegscqu juksmtho	GRP_13
+calculation of the claim amount will make a mistake.	"from: uxndyfrs vahxnfgl [mailto:uxndyfrs.vahxnfgl@gmail.com] _x000D_
+sent: friday, august 05, 2016 10:53 am_x000D_
+to: nwfodmhc exurcwkm_x000D_
+subject: rad:fw: calculation of the claim amount will make a mistake._x000D_
+_x000D_
+hi_x000D_
+_x000D_
+calculation of the claim amount will make a mistake._x000D_
+please fix this._x000D_
+_x000D_
+the total amount of money usd 2770_x000D_
+_x000D_
+best "	uxndyfrs vahxnfgl	GRP_13
